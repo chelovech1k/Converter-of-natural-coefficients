@@ -6,9 +6,9 @@
 <b> y = b<sub>0</sub> + b<sub>1</sub>x<sub>1</sub> + b<sub>2</sub>x<sub>2</sub> + b<sub>3</sub>x<sub>3</sub> + b<sub>12</sub>x<sub>1</sub>x<sub>2</sub> + b<sub>13</sub>x<sub>1</sub>x<sub>3</sub> + b<sub>23</sub>x<sub>2</sub>x<sub>3</sub> + b<sub>123</sub>x<sub>1</sub>x<sub>2</sub>x<sub>3</sub> </b>
 
 где:
-- \( b<sub>0</sub>, b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, b<sub>12</sub>, b<sub>13</sub>, b<sub>23</sub>, b<sub>123</sub> \) — коэффициенты, которые могут быть заданы в кодированном виде,
-- \( x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> \) — кодированные значения факторов,
-- \( X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> \) — натуральные значения факторов.
+-  b<sub>0</sub>, b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, b<sub>12</sub>, b<sub>13</sub>, b<sub>23</sub>, b<sub>123</sub> \) — коэффициенты, которые могут быть заданы в кодированном виде,
+-  x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> — кодированные значения факторов,
+-  X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> — натуральные значения факторов.
 
 ## Использование
 ```matlab
