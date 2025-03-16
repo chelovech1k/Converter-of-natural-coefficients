@@ -3,7 +3,7 @@
 ## Описание
 Функция `convert_to_natural_coeffs` предназначена для преобразования кодированных коэффициентов факторной модели в натуральные коэффициенты. Функция используется для уравнения вида:
 
-\[ y = b<sub>0</sub> + b<sub>1</sub>x<sub>1</sub> + b<sub>2</sub>x<sub>2</sub> + b<sub>3</sub>x<sub>3</sub> + b<sub>12</sub>x<sub>1</sub>x<sub>2</sub> + b<sub>13</sub>x<sub>1</sub>x<sub>3</sub> + b<sub>23</sub>x<sub>2</sub>x<sub>3</sub> + b<sub>123</sub>x<sub>1</sub>x<sub>2</sub>x<sub>3</sub> \]
+\ y = b<sub>0</sub> + b<sub>1</sub>x<sub>1</sub> + b<sub>2</sub>x<sub>2</sub> + b<sub>3</sub>x<sub>3</sub> + b<sub>12</sub>x<sub>1</sub>x<sub>2</sub> + b<sub>13</sub>x<sub>1</sub>x<sub>3</sub> + b<sub>23</sub>x<sub>2</sub>x<sub>3</sub> + b<sub>123</sub>x<sub>1</sub>x<sub>2</sub>x<sub>3</sub> \
 
 где:
 - \( b<sub>0</sub>, b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>, b<sub>12</sub>, b<sub>13</sub>, b<sub>23</sub>, b<sub>123</sub> \) — коэффициенты, которые могут быть заданы в кодированном виде,
