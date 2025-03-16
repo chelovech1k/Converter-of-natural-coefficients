@@ -17,6 +17,8 @@
 - **X<sub>i</sub>** — натуральное значение фактора,
 - **X<sub>0</sub>** — натуральное значение основного уровня (базовая точка),
 - **n** — интервал варьирования (шаг изменения в натуральных единицах).
+
+
 Итоговое уравнение имеет вид:
 <b> y = B<sub>0</sub> + B<sub>1</sub>X<sub>1</sub> + B<sub>2</sub>B<sub>2</sub> + B<sub>3</sub>X<sub>3</sub> + B<sub>12</sub>X<sub>1</sub>X<sub>2</sub> + B<sub>13</sub>X<sub>1</sub>X<sub>3</sub> + B<sub>23</sub>X<sub>2</sub>X<sub>3</sub> + B<sub>123</sub>X<sub>1</sub>X<sub>2</sub>X<sub>3</sub> </b>
 ## Использование
