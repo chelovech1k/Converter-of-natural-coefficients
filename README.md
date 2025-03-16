@@ -1,6 +1,5 @@
 # Convert to Natural Coefficients
 
-## Описание
 Функция `convert_to_natural_coeffs` предназначена для преобразования кодированных коэффициентов факторной модели в натуральные коэффициенты. Функция используется для уравнения вида:
 
 <b> y = b<sub>0</sub> + b<sub>1</sub>x<sub>1</sub> + b<sub>2</sub>x<sub>2</sub> + b<sub>3</sub>x<sub>3</sub> + b<sub>12</sub>x<sub>1</sub>x<sub>2</sub> + b<sub>13</sub>x<sub>1</sub>x<sub>3</sub> + b<sub>23</sub>x<sub>2</sub>x<sub>3</sub> + b<sub>123</sub>x<sub>1</sub>x<sub>2</sub>x<sub>3</sub> </b>
