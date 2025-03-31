@@ -1,5 +1,3 @@
-# Converter-of-natural-coefficients
- 
 # Convert to Natural Coefficients
 
 Функция `convert_to_natural_coeffs` предназначена для преобразования кодированных коэффициентов факторной модели в натуральные коэффициенты. Функция используется для уравнения вида:
